@@ -34,7 +34,7 @@ Investigación integral sobre el maíz, cubriendo desde su metabolismo **C4** ha
 * [Etapas de Maduración](./docs/maiz-maduracion.md)
 * [Calidad Organoléptica](./docs/maiz-organoleptica.md)
 * [Parámetros de Calidad del Grano](./docs/maiz-calidad.md)
-* [Usos e Industrialización]
+* [Usos e Industrialización]docs/maiz-Industrializacion.md)
 
 ---
 
