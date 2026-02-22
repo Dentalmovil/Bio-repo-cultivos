@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Bio-Repo Cultivos</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root { --theme-color: #e63946; }
+    .sidebar-nav li > a { font-weight: 500; }
+  </style>
+</head>
+<body>
+  <div id="app">Cargando...</div>
+  <script>
+    window.$docsify = {
+      name: '🌿 Bio-Repo',
+      loadSidebar: true,
+      coverpage: true,
+      subMaxLevel: 2,
+      mermaidConfig: { queryMethods: ['mermaid'] }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-mermaid@latest/dist/docsify-mermaid.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+</body>
+</html>
