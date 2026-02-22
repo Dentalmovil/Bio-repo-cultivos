@@ -29,3 +29,10 @@ graph LR
     D --> E[Etanol Anhidro]
     E --> F[Combustible E10/E85]
     style E fill:#f1c40f,stroke:#333
+
+    3. Clasificación por Uso Final
+Tipo de Maíz Uso Principal Característica
+Amarillo Forraje y Etanol Alto contenido de carotenoides.
+Blanco Consumo Humano Preferido para tortillas y harinas.
+Pisingallo Snacks Capacidad de expansión (Palomitas).
+Céreo Industria Química Almidón compuesto 100% por amilopectina.
