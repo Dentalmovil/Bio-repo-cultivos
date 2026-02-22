@@ -37,6 +37,6 @@ Investigación integral sobre el maíz, cubriendo desde su metabolismo **C4** ha
 * [Usos e Industrialización](./docs/maiz-usos.md)
 
 ---
-[Ver Licencia MIT](./LICENSE)
+(./LICENSE)
 
 
