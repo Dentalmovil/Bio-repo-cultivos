@@ -16,5 +16,5 @@
 
 * **🏭 Industria**
   * [Industrialización](docs/maiz-Industrializacion.md)
-  * [Usos del Maíz](docs/maiz-usos.md)
+  
 
