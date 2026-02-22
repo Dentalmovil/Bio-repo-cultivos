@@ -15,5 +15,5 @@
   * [Calidad del Grano](docs/maiz-calidad.md)
 
 * **🏭 Industria**
-  * [Usos del Maíz](docs/maiz-usos.md)
+  * [Usos del Maíz](docs/maiz-Industria.md)
 
