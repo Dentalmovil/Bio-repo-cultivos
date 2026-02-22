@@ -14,3 +14,23 @@ graph TD
     C --> D[Células de la Vaina]
     D --> E[Ciclo de Calvin: Glucosa]
     style E fill:#f1c40f,stroke:#333
+
+**`docs/maiz-maduracion.md`**
+```markdown
+# Proceso de Maduración Reproductiva
+
+La madurez del grano se divide en etapas críticas que determinan el rendimiento final.
+
+| Etapa | Descripción | Indicador |
+| :--- | :--- | :--- |
+| **R1** | Polinización | Estigmas visibles |
+| **R3** | Estado Lechoso | Acumulación de almidón |
+| **R5** | Estado Dentado | Formación de la línea de leche |
+| **R6** | Madurez Fisiológica | **Capa Negra** (Peso máximo) |
+
+```mermaid
+graph LR
+    R3[Lechoso] --> R4[Masoso]
+    R4 --> R5[Dentado]
+    R5 --> R6[Capa Negra]
+    style R6 fill:#f1c40f,stroke:#333,stroke-width:4px
