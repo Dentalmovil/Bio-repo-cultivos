@@ -34,3 +34,12 @@ graph LR
     R4 --> R5[Dentado]
     R5 --> R6[Capa Negra]
     style R6 fill:#f1c40f,stroke:#333,stroke-width:4px
+**`docs/maiz-calidad.md`**
+```markdown
+# Calidad del Grano y Poscosecha
+
+El maíz debe cumplir estándares físicos para su almacenamiento.
+
+- **Humedad crítica:** 14% para evitar hongos (*Aspergillus*).
+- **Densidad:** Medida en Peso Hectolítrico.
+- **Endospermo:** Puede ser vítreo (duro) o harinoso (suave).
