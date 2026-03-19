@@ -33,3 +33,4 @@
 * [Control de Plagas Natural](docs/control-plagas-natural.md)
  * [Bitácora de Campo](docs/bitacora-campo.md)
 * [Influencia de la Luna](docs/influencia-lunar.md)
+* [Manejo del Agua y Sequía](docs/manejo-agua-sequia.md)
