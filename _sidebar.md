@@ -31,4 +31,4 @@
 * [Calculadora de Insumos](docs/calculadora-insumos.md)
  * [Alternativas de Abono Económico](docs/abono-organico-economico.md)
 * [Control de Plagas Natural](docs/control-plagas-natural.md)
-
+ * [Bitácora de Campo](docs/bitacora-campo.md)
