@@ -29,6 +29,6 @@
 
 * [Costos y Rentabilidad](docs/rentabilidad-agro.md)
 * [Calculadora de Insumos](docs/calculadora-insumos.md)
-
+ * [Alternativas de Abono Económico](docs/abono-organico-economico.md)
 
 
