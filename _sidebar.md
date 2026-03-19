@@ -25,6 +25,7 @@
 
 * **🌍 Sostenibilidad (ASG)**
   * [Resumen Cultivos (M-Ñ-Y)](docs/asg-resumen.md)
+  * [Ganadería Sostenible](docs/asg-ganaderia.md)
 
 
 
