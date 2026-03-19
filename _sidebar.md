@@ -17,6 +17,9 @@
 
 * **🍠 Tubérculos del Caribe**
   * [Cosecha de Ñame](docs/name-cosecha.md)
+  * [Guía de Yuca](docs/yuca-guia.md)
+
+
 
 
 
