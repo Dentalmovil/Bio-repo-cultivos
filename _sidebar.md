@@ -15,6 +15,9 @@
   * [Etapas de Maduración](docs/maiz-maduracion.md)
   * [Calidad del Grano](docs/maiz-calidad1.md)
 
+* **🍠 Tubérculos del Caribe**
+  * [Cosecha de Ñame](docs/name-cosecha.md)
+
 
 
 
