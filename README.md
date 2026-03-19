@@ -37,6 +37,45 @@ Investigación integral sobre el maíz, cubriendo desde su metabolismo **C4** ha
 * [Usos e Industrialización](./docs/maiz-Industrializacion.md)
 
 ---
+# 🌽 Bio-repo-cultivos | Proyecto Bio-Maíz 🌾
+> **Tecnología y Datos aplicada al Agro del Cesar, Colombia.** 🇨🇴
+
+Bienvenido a **Bio-repo-cultivos**, una enciclopedia técnica y operativa diseñada para digitalizar el campo. Este repositorio combina conocimientos agronómicos con herramientas de gestión moderna (**ASG**).
+
+---
+
+## 🚀 ¿Qué encontrarás aquí?
+Este proyecto está estructurado para ofrecer soluciones reales a productores y estudiantes:
+
+* **🌱 Agricultura Técnica:** Guías completas de Maíz, Ñame y Yuca.
+* **🐄 Ganadería Inteligente:** Control de inventario y bienestar animal.
+* **🌍 Sostenibilidad (ASG):** Manuales de Buenas Prácticas Agrícolas y Ambientales.
+* **📊 Gestión de Datos:** Plantillas y bitácoras para seguimiento de lotes.
+
+---
+
+## 📂 Estructura del Proyecto
+* `/docs`: Contenido técnico y guías de cultivo.
+* `_sidebar.md`: Navegación lateral del proyecto.
+* `plantilla_seguimiento.md`: Herramienta práctica de registro diario.
+
+---
+
+## 🛠️ Stack Tecnológico
+Para el desarrollo de este repositorio y las herramientas asociadas, utilizamos:
+* **Entorno:** Termux (Android Mobile Development) 📱
+* **Editor:** Acode / GitHub Web 💻
+* **Gestión:** Git & GitHub 📂
+
+---
+
+## 👨‍💻 Desarrollador
+Proyecto creado y mantenido por **Dentalmovilr4**.
+* 📲 **Canal de WhatsApp:** [¡Únete para recibir actualizaciones!](#) *(Pega aquí tu link)*
+* 📍 **Ubicación:** Cesar, Colombia.
+
+---
+*“El que no mide, no mejora. Digitalicemos el campo juntos.”* 🚀🌱
 
 
 
