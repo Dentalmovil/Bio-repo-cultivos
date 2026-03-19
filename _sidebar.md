@@ -19,6 +19,14 @@
   * [Cosecha de Ñame](docs/name-cosecha.md)
   * [Guía de Yuca](docs/yuca-guia.md)
 
+* **🐄 Gestión Ganadera**
+  * [Inventario Bovino](docs/ganaderia-inventario.md)
+  * [Manejo de Pasturas](docs/ganaderia-pastos.md)
+
+* **🌍 Sostenibilidad (ASG)**
+  * [Resumen Cultivos (M-Ñ-Y)](docs/asg-resumen.md)
+
+
 
 
 
