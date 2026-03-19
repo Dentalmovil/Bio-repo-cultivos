@@ -71,7 +71,7 @@ Para el desarrollo de este repositorio y las herramientas asociadas, utilizamos:
 
 ## 👨‍💻 Desarrollador
 Proyecto creado y mantenido por **Dentalmovilr4**.
-* 📲 **Canal de WhatsApp:** [¡Únete para recibir actualizaciones!](#) *(Pega aquí tu link)*
+* 📲 **Canal de WhatsApp:** [¡Únete para recibir actualizaciones!](#) *(https://whatsapp.com/channel/0029VbCSfvt65yDF70aMPM1s)*
 * 📍 **Ubicación:** Cesar, Colombia.
 
 ---
