@@ -1,28 +1,16 @@
 * [🏠 Inicio](README.md)
 
 * **🌱 Botánica del Maíz**
-  * [Clasificación C4](maiz-clasificacion.md)
-  * [Morfología](maiz-morfologia.md)
+  * [Clasificación C4](docs/maiz-clasificacion.md)
+  * [Morfología](docs/maiz-morfologia.md)
 
 * **📈 Cultivo y Sanidad**
-  * [Requerimientos](maiz-requerimientos.md)
-  * [Ciclo de Producción](maiz-produccion.md)
-  * [Plagas y Enfermedades](maiz-sanidad.md)
-  * [Bitácora de Seguimiento](plantilla_seguimiento.md)
-
-* **🍠 Tubérculos del Caribe**
-  * [Guía de Ñame](docs/docs/name-guia.md)
-  * [Guía de Yuca](docs/para docs/yuca-guia.md)
-
-* **🐄 Gestión Ganadera**
-  * [Inventario Bovino](docs/docs/ganaderia-inventario.md)
-  * [Bienestar Animal](docs/docs/asg-ganaderia.md)
-
-* **🌍 Sostenibilidad (ASG)**
-  * [Buenas Prácticas (BPA)](docs/archivo docs/asg-agro.md)
+  * [Requerimientos](docs/maiz-requerimientos.md)
+  * [Ciclo de Producción](docs/maiz-produccion.md)
+  * [Plagas y Enfermedades](docs/maiz-sanidad.md)
 
 * **🏗️ Industria**
-  * [Industrialización](maiz-Industrializacion.md)
+  * [Industrialización](docs/maiz-Industrializacion.md)
 
 
 
