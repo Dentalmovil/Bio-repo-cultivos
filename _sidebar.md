@@ -34,3 +34,4 @@
  * [Bitácora de Campo](docs/bitacora-campo.md)
 * [Influencia de la Luna](docs/influencia-lunar.md)
 * [Manejo del Agua y Sequía](docs/manejo-agua-sequia.md)
+* [Primeros Auxilios Bovinos](docs/primeros-auxilios-bovinos.md)
