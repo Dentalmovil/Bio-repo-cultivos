@@ -27,8 +27,7 @@
   * [Resumen Cultivos (M-Ñ-Y)](docs/asg-resumen.md)
   * [Ganadería Sostenible](docs/asg-ganaderia.md)
 
-
-
+* [Costos y Rentabilidad](docs/rentabilidad-agro.md)
 
 
 
