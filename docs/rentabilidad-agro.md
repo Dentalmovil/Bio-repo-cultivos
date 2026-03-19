@@ -37,6 +37,45 @@ Esta ficha es una guía para proyectar la inversión y el retorno esperado. *Not
 
 ---
 
+## 🍠 3. Ñame Espino / Diamante (1 Ha)
+**Meta de Rendimiento:** 10 a 12 Toneladas/Ha.
+*El ñame requiere más inversión inicial, pero el precio de venta suele ser superior.*
+
+| Ítem | Descripción | Costo Est. (COP) |
+| :--- | :--- | :--- |
+| **Semilla** | 2.500 a 3.000 kg de semilla seleccionada | $1.800.000 |
+| **Preparación** | Arado profundo y ahoyado manual | $700.000 |
+| **Tutorado** | Estacas y alambre (para ñame de enredadera) | $1.500.000 |
+| **Mantenimiento** | Control de antracnosis y limpias | $2.000.000 |
+| **Cosecha** | Extracción manual y clasificación | $1.200.000 |
+| **TOTAL INVERSIÓN** | | **$7.200.000** |
+
+📊 **Rentabilidad:** Si vendes 10 Ton a $1.800.000 c/u (Promedio) = **$18.000.000**.
+*Utilidad estimada: $10.800.000 por Ha (Ciclo de 9 meses).*
+
+---
+
+## 🌿 4. Establecimiento de Pastos (1 Ha)
+**Objetivo:** Sostenimiento de 2 a 3 cabezas de ganado adicionales.
+*Inversión a largo plazo (dura 5-10 años con buen manejo).*
+
+| Ítem | Descripción | Costo Est. (COP) |
+| :--- | :--- | :--- |
+| **Semilla** | Brizantha, Mombasa o Humidicola (según suelo) | $450.000 |
+| **Preparación** | Pase de rastra y siembra | $550.000 |
+| **Enmiendas** | Cal dolomita y fertilizante de arranque | $1.200.000 |
+| **Control** | Primer control de malezas y hormigas | $400.000 |
+| **Cercado** | Mantenimiento de divisiones (cerca eléctrica) | $600.000 |
+| **TOTAL INVERSIÓN** | | **$3.200.000** |
+
+📊 **Impacto Económico:** Un buen pasto reduce el costo de suplementación (concentrados) en un **40%** y aumenta la producción de leche/carne. La inversión se recupera en el primer año de pastoreo.
+
+---
+*Análisis de costos y rentabilidad - Dentalmovilr4.*
+
+
+---
+
 ### 💡 Recomendaciones para mejorar el margen:
 1. **Compra en volumen:** Unirse con otros productores para comprar fertilizantes baja los costos.
 2. **Asociatividad:** Vender directamente a plazas o industrias evita al intermediario que se queda con la ganancia.
