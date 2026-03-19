@@ -8,6 +8,11 @@
   * [Requerimientos](docs/maiz-requerimientos.md)
   * [Ciclo de Producción](docs/maiz-produccion.md)
   * [Plagas y Enfermedades](docs/maiz-sanidad.md)
+* **📈 Cultivo y Sanidad**
+  * [Requerimientos](docs/maiz-requerimientos.md)
+  * [Ciclo de Producción](docs/maiz-produccion.md)
+  * [Plagas y Enfermedades](docs/maiz-sanidad.md)
+  * [Bitácora de Seguimiento](plantilla_seguimiento.md)
 
 * **🌽 Maduración y Calidad**
   * [Etapas de Maduración](docs/maiz-maduracion.md)
