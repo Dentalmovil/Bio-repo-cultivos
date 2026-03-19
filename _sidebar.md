@@ -11,6 +11,9 @@
 
 * **🏗️ Industria**
   * [Industrialización](docs/maiz-Industrializacion.md)
+* **🌽 Maduración y Calidad**
+  * [Etapas de Maduración](docs/maiz-maduracion.md)
+  * [Calidad del Grano](docs/maiz-calidad1.md)
 
 
 
