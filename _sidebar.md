@@ -28,7 +28,7 @@
   * [Ganadería Sostenible](docs/asg-ganaderia.md)
 
 * [Costos y Rentabilidad](docs/rentabilidad-agro.md)
-
+* [Calculadora de Insumos](docs/calculadora-insumos.md)
 
 
 
